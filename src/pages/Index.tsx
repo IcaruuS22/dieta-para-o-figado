@@ -155,7 +155,7 @@ const Index = () => {
       <section className="bg-urgency text-white py-3 px-1">
         <div className="container max-w-5xl mx-auto text-center">
           <p className="text-sm sm:text-base md:text-lg font-bold uppercase tracking-wide">
-            SIGA ESTES CARDÁPIOS POR 2 SEMANAS E DIGA ADEUS À GORDURA NO FÍGADO E À BARRIGA INCHADA!
+            SIGА ЕSTЕS САRDÁPIOS PОR 2 SЕМАNАS E АCАBЕ CОM À GОRDURА NО FÍGАDО E À BАRRIGА INCHАDА!
           </p>
         </div>
       </section>
